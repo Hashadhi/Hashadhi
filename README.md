@@ -17,3 +17,12 @@
 <a href="https://linkedin.com/in/giharanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giharanw" height="30" width="40" /></a>
 <a href="https://fb.com/giharanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giharanw" height="30" width="40" /></a>
 </p>
+
+
+
+
+### <📊> GitHub stats </📊>
+
+
+[![Bugahontas' GitHub stats](https://github-readme-stats.vercel.app/api?username=bugahontas&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/bugahontas) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugahontas&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/bugahontas) 
+| ----------- | ------------ |
