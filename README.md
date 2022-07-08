@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/giharanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giharanw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/giharanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giharanw" height="30" width="40" /></a>
-<a href="https://fb.com/giharanw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giharanw" height="30" width="40" /></a>
 </p>
 
 
