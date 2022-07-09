@@ -77,9 +77,9 @@
 
 ## MY GITHUB STATS
 
-[![Hashadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashadhi-Jayasinghe&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Hashadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashadhi&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashadhi-Jayasinghe&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashadhi&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_Here,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 &nbsp;
