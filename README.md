@@ -3,9 +3,8 @@
 
 - 💻 Currently studying React, Angular, Node and Spring Framework based materials
 - 💬 Mostly liking to share the knowledge about Web Application Development
-- 🥅 2022 Goals: Complete Professional Certifications
-- 📫 Catch me on LinkedIn: [linkedin](https://www.linkedin.com/in/dulanga-wimalagunasekara-64bb50209/)
-- ⚡ Fun fact: Thinking more than enough will guide me to hell one day😉
+- 🥅 2023 Goals: Become a Professional Software Engineer and expertise in the field of Software Engineering
+- 📫 Catch me on LinkedIn: [linkedin](www.linkedin.com/in/hashadhi-jayasinghe/)
 
 ## 👦 ABOUT ME
 
@@ -87,9 +86,9 @@ Believing that the way of heading forward with the surrounding ones is much bles
 
 ## MY GITHUB STATS
 
-[![Hashadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashadhi-Jayasinghe&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Hashadhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashadhi&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashadhi-Jayasinghe&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashadhi&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_Here,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
 &nbsp;
