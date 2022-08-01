@@ -17,7 +17,7 @@ Believing that the way of heading forward with the surrounding ones is much bles
 &nbsp;
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19268487/hashadhi-jayasinghe)](https://stackoverflow.com/users/19268487/hashadhi-jayasinghe)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/hashadhij)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/hashadhij)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-hashadhij12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hashadhij12@gmail.com)](mailto:hashadhij12@gmail.com)
 
