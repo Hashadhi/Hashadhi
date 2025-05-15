@@ -8,7 +8,7 @@
 
 ## 👦 ABOUT ME
 
-I'm **Hashadhi Jayasinghe**. A **Full Stack Developer** in Sri Lanka. I live up to enhance the living standards and business of people around the globe harnessing the cutting-edge technologies in the world.
+I'm **Hashadhi Jayasinghe**. A **Full Stack Developer** in Australia. I live up to enhance the living standards and business of people around the globe harnessing the cutting-edge technologies in the world.
 Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.  
 
 ### Contact Me:
